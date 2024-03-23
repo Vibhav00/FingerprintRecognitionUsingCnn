@@ -1,19 +1,19 @@
-# FINGER PRINT RECOGINATION USING CNN - A full stack web/android App for fingerprint Recogination 😀😍💗🔥
+# FINGER PRINT RECOGNITION USING CNN - A full stack web/android App for fingerprint RECOGNITION 😀😍💗🔥
 
 ![platform](https://img.shields.io/badge/machine-learning-red.svg)
 ![platform](https://img.shields.io/badge/web-dev-45645.svg)
 ![platform](https://img.shields.io/badge/android-dev-45645.svg)
 ![platform](https://img.shields.io/badge/deep-learning-45645.svg)
 
-A Full stack Fingerprint Recogination web/android App with deep learning and flask 😍
+A Full stack Fingerprint RECOGNITION web/android App with deep learning and flask 😍
 
 <img src = "./images/image1.png" width="200" />
 
-## Preview - Finger Print Recogination 🌟
+## Preview - Finger Print RECOGNITION 🌟
 
 <img src = "./images/video.gif" width="600" />
 
-# Steps of Fingerprint Recogination ❤️
+# Steps of Fingerprint RECOGNITION ❤️
 
 <table style="width:100%">
   <tr>
@@ -30,7 +30,7 @@ A Full stack Fingerprint Recogination web/android App with deep learning and fla
 
 ## About 🤗
 
-This is <b>static</b> fingerprint recogination application 🖥 where the model is trainded in the backend using cnn 💻 i.e <i>Convolutional Neural Network</i>and front end is in html,css , and javascript . the json api is build using flask server and deep learning model .
+This is <b>static</b> fingerprint RECOGNITION application 🖥 where the model is trainded in the backend using cnn 💻 i.e <i>Convolutional Neural Network</i>and front end is in html,css , and javascript . the json api is build using flask server and deep learning model .
 
 The poject is basically focused on the machine learning part where we can visualize the output after passing through each convolution and pooling . if we provide a single fingerprint image then after passing through each layer how the image is changing we can see in this project .
 
